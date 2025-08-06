@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Ethiris_TNS {
-}
